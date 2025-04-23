@@ -1,0 +1,15 @@
+E:\aspnetcore\code\CitiesManagerSolution\CitiesManager.Infrastructurn\obj\Debug\net7.0\CitiesManager.Infrastructure.csproj.AssemblyReference.cache
+E:\aspnetcore\code\CitiesManagerSolution\CitiesManager.Infrastructurn\obj\Debug\net7.0\CitiesManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\aspnetcore\code\CitiesManagerSolution\CitiesManager.Infrastructurn\obj\Debug\net7.0\CitiesManager.Infrastructure.AssemblyInfoInputs.cache
+E:\aspnetcore\code\CitiesManagerSolution\CitiesManager.Infrastructurn\obj\Debug\net7.0\CitiesManager.Infrastructure.AssemblyInfo.cs
+E:\aspnetcore\code\CitiesManagerSolution\CitiesManager.Infrastructurn\obj\Debug\net7.0\CitiesManager.Infrastructure.csproj.CoreCompileInputs.cache
+E:\aspnetcore\code\CitiesManagerSolution\CitiesManager.Infrastructurn\bin\Debug\net7.0\CitiesManager.Infrastructure.deps.json
+E:\aspnetcore\code\CitiesManagerSolution\CitiesManager.Infrastructurn\bin\Debug\net7.0\CitiesManager.Infrastructure.dll
+E:\aspnetcore\code\CitiesManagerSolution\CitiesManager.Infrastructurn\bin\Debug\net7.0\CitiesManager.Infrastructure.pdb
+E:\aspnetcore\code\CitiesManagerSolution\CitiesManager.Infrastructurn\bin\Debug\net7.0\CitiesManager.Core.dll
+E:\aspnetcore\code\CitiesManagerSolution\CitiesManager.Infrastructurn\bin\Debug\net7.0\CitiesManager.Core.pdb
+E:\aspnetcore\code\CitiesManagerSolution\CitiesManager.Infrastructurn\obj\Debug\net7.0\CitiesMa.A7AC7DC8.Up2Date
+E:\aspnetcore\code\CitiesManagerSolution\CitiesManager.Infrastructurn\obj\Debug\net7.0\CitiesManager.Infrastructure.dll
+E:\aspnetcore\code\CitiesManagerSolution\CitiesManager.Infrastructurn\obj\Debug\net7.0\refint\CitiesManager.Infrastructure.dll
+E:\aspnetcore\code\CitiesManagerSolution\CitiesManager.Infrastructurn\obj\Debug\net7.0\CitiesManager.Infrastructure.pdb
+E:\aspnetcore\code\CitiesManagerSolution\CitiesManager.Infrastructurn\obj\Debug\net7.0\ref\CitiesManager.Infrastructure.dll

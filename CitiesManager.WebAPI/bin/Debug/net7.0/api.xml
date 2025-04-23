@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CitiesManager.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="T:CitiesManager.WebAPI.Controllers.v1.AccountController">
+            <summary>
+            Account controller for user registration and login
+            </summary>
+        </member>
+        <member name="M:CitiesManager.WebAPI.Controllers.v1.AccountController.#ctor(Microsoft.AspNetCore.Identity.UserManager{CitiesManager.Core.Identity.ApplicationUser},Microsoft.AspNetCore.Identity.SignInManager{CitiesManager.Core.Identity.ApplicationUser},Microsoft.AspNetCore.Identity.RoleManager{CitiesManager.Core.Identity.ApplicationRole},CitiesManager.Core.ServiceContract.IJwtService)">
+            <summary>
+            Constructor for AccountController
+            </summary>
+            <param name="userManager"></param>
+            <param name="signInManager"></param>
+            <param name="roleManager"></param>
+            <param name="jwtService"></param>
+        </member>
+        <member name="M:CitiesManager.WebAPI.Controllers.v1.AccountController.PostRegister(CitiesManager.Core.DTO.RegisterDTO)">
+            <summary>
+            Register a new user
+            </summary>
+            <param name="registerDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CitiesManager.WebAPI.Controllers.v1.AccountController.PostLogin(CitiesManager.Core.DTO.LoginDTO)">
+            <summary>
+            Login a user
+            </summary>
+            <param name="loginDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CitiesManager.WebAPI.Controllers.v1.AccountController.PostLogout">
+            <summary>
+            Logout a user
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CitiesManager.WebAPI.Controllers.v1.AccountController.IsEmailAreadyRegister(System.String)">
+            <summary>
+            Check if email is already registered
+            </summary>
+            <param name="email"></param>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:CitiesManager.WebAPI.Controllers.v1.AccountController.GenerateNewAccessToken(CitiesManager.Core.DTO.TokenModel)" -->
+        <member name="T:CitiesManager.WebAPI.Controllers.v1.CitiesController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:CitiesManager.WebAPI.Controllers.v1.CitiesController.#ctor(CitiesManager.Core.ServiceContract.ICitiesService)">
+            <summary>
+            
+            </summary>
+            <param name="citiesService"></param>
+        </member>
+        <member name="M:CitiesManager.WebAPI.Controllers.v1.CitiesController.GetCities">
+            <summary>
+            To get all cities (including city id city name) from table
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CitiesManager.WebAPI.Controllers.v1.CitiesController.GetCity(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CitiesManager.WebAPI.Controllers.v1.CitiesController.GetCityByName(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CitiesManager.WebAPI.Controllers.v1.CitiesController.SeachForCity(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="searchString"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CitiesManager.WebAPI.Controllers.v1.CitiesController.PutCity(System.Guid,CitiesManager.Core.Models.City)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <param name="city"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CitiesManager.WebAPI.Controllers.v1.CitiesController.PostCity(CitiesManager.Core.Models.City)">
+            <summary>
+            
+            </summary>
+            <param name="city"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CitiesManager.WebAPI.Controllers.v1.CitiesController.DeleteCity(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CitiesManager.WebAPI.Controllers.v2.CitiesController.GetCities">
+            <summary>
+            To get all cities (including city id city name) from table
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
